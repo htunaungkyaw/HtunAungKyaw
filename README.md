@@ -7,20 +7,14 @@ I graduated 👨🏿‍🎓**HND Diploma (BTEC Level 5) in Computing and Systems
 
 > Following are a few technologies i've been working with recently and frequently:
 <div>
-<img src="https://github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/assets/react.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-<img src="https://github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/assets/redux.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-<img src="https://github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/assets/mongoose.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-<img src="https://github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/assets/nodejs.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-<img src="https://github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/assets/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-<img src="https://github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/assets/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-<img src="https://github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/assets/css.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  
-  
-  <a href="https://twitter.com/HtunAungKyaw">
-    <img src="https://raw.githubusercontent.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/assets/css.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  </a>  
+<img src="https://github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/react.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/redux.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/mongoose.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/nodejs.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/css.svg" alt="example badge" style="vertical-align:top margin:6px 4px">  
 </div>
-
 #### How to reach me?
 
 <hr/>
