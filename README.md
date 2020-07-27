@@ -6,15 +6,15 @@ I graduated 👨🏿‍🎓**HND Diploma (BTEC Level 5) in Computing and Systems
 - ♥️ I love learning new things such as 🤖machine learning, deep learning with python 🐍
 
 > Following are a few technologies i've been working with recently and frequently:
-
-<img src="assets/react.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-<img src="assets/redux.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-<img src="assets/mongoose.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-<img src="assets/nodejs.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-<img src="assets/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-<img src="assets/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-<img src="assets/css.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-<img src="https://github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
+<div>
+<img src="https://github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/assets/react.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/assets/redux.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/assets/mongoose.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/assets/nodejs.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/assets/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/assets/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/assets/css.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+</div>
 
 #### How to reach me?
 
