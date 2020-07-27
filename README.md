@@ -16,8 +16,9 @@ I graduated 👨🏿‍🎓**HND Diploma (BTEC Level 5) in Computing and Systems
 <img src="https://github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/assets/css.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   
   
-  ![Hello](https://raw.github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/assets/css.svg)
-<img src="https://raw.github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/assets/css.svg">
+  <a href="https://twitter.com/HtunAungKyaw">
+    <img src="https://raw.githubusercontent.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/assets/css.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+  </a>  
 </div>
 
 #### How to reach me?
