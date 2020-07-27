@@ -6,7 +6,7 @@ I graduated 👨🏿‍🎓**HND Diploma (BTEC Level 5) in Computing and Systems
 - ♥️ I love learning new things such as 🤖machine learning, deep learning with python 🐍
 
 > Following are a few technologies i've been working with recently and frequently:
-
+<div>
 <img src="https://github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/assets/react.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 <img src="https://github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/assets/redux.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 <img src="https://github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/assets/mongoose.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
@@ -14,7 +14,11 @@ I graduated 👨🏿‍🎓**HND Diploma (BTEC Level 5) in Computing and Systems
 <img src="https://github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/assets/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 <img src="https://github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/assets/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 <img src="https://github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/assets/css.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-
+  
+  
+  ![Hello](https://raw.github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/assets/css.svg)
+<img src="https://raw.github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/assets/css.svg">
+</div>
 
 #### How to reach me?
 
