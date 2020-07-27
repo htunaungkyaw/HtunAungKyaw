@@ -7,7 +7,6 @@ I graduated 👨🏿‍🎓**HND Diploma (BTEC Level 5) in Computing and Systems
 
 > Following are a few technologies i've been working with recently and frequently:
 
-<div>
 <img src="assets/react.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 <img src="assets/redux.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 <img src="assets/mongoose.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
@@ -15,7 +14,7 @@ I graduated 👨🏿‍🎓**HND Diploma (BTEC Level 5) in Computing and Systems
 <img src="assets/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 <img src="assets/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 <img src="assets/css.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-</div>
+<img src="https://github.com/HtunAungKyaw/HtunAungKyaw/blob/master/assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
 
 #### How to reach me?
 
