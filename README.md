@@ -8,13 +8,13 @@ I graduated 👨🏿‍🎓**HND Diploma (BTEC Level 5) in Computing and Systems
 > Following are a few technologies i've been working with recently and frequently:
 
 <div>
-<img src="/assets/react.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-<img src="/assets/redux.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-<img src="/assets/mongoose.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-<img src="/assets/nodejs.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-<img src="/assets/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-<img src="/assets/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-<img src="/assets/css.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/HtunAungKyaw/HtunAungKyaw/tree/master/assets/react.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/HtunAungKyaw/HtunAungKyaw/tree/master/assets/redux.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/HtunAungKyaw/HtunAungKyaw/tree/master/assets/mongoose.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/HtunAungKyaw/HtunAungKyaw/tree/master/assets/nodejs.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/HtunAungKyaw/HtunAungKyaw/tree/master/assets/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/HtunAungKyaw/HtunAungKyaw/tree/master/assets/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/HtunAungKyaw/HtunAungKyaw/tree/master/assets/css.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 </div>
 
 #### How to reach me?
