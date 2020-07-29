@@ -20,11 +20,9 @@ I graduated 👨🏿‍🎓**HND Diploma (BTEC Level 5) in Computing and Systems
 
 <hr/>
 
-📦 [codesandbox](https://codesandbox.io/u/HtunAungKyaw) **|**
-🔥 [freecodecamp](https://www.freecodecamp.org/fcc0d6b7701-43b3-423b-b740-7f6f2348e6a9)
-
 🄵 [facebook](https://www.facebook.com/htunagkyaw.hak) **|**
 🐦 [twitter](http://twitter.com/htun_aung_kyaw) **|**
 📺 [youtube](https://www.youtube.com/channel/UCrPfrxmuZAh3ok7DKqy488g?view_as=subscriber) **|**
-👔 [linkedin](https://www.linkedin.com/in/htun-aung-kyaw-3b6b6815a)
-
+👔 [linkedin](https://www.linkedin.com/in/htun-aung-kyaw-3b6b6815a) **|**
+📦 [codesandbox](https://codesandbox.io/u/HtunAungKyaw) **|**
+🔥 [freecodecamp](https://www.freecodecamp.org/fcc0d6b7701-43b3-423b-b740-7f6f2348e6a9)
