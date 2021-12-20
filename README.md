@@ -1,6 +1,6 @@
 ### Hi, I'm Htun Aung Kyaw
 
-I graduated 👨🏿‍🎓**HND Diploma (BTEC Level 5) in Computing and Systems Development** from [iNet College](http://www.inetmyanmar.com) in 2017.
+I graduated 👨🏿‍🎓**HND Diploma (BTEC Level 5) in Computing and Systems Development** from INET IT ACADEMY in 2017.
 
 - 🧑🏿‍💻I'm currently working on MERN Stack
 - ♥️ I love learning new things such as 🤖machine learning, deep learning with python 🐍
